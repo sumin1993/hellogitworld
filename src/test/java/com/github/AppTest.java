@@ -20,6 +20,12 @@ public class AppTest
      *
      * @param testName name of the test case
      */
+    
+    public newSymFunc( String test)
+    {
+	Func( var );
+    }
+
     public AppTest( String testName )
     {
         super( testName );
