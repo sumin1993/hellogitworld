@@ -40,4 +40,11 @@ public class AppTest
     {
         assertTrue( true );
     }
+    /**
+     * thetthirisan Test :-)
+     */
+    public void testTts()
+    {
+        assertTrue( true );
+    }
 }
